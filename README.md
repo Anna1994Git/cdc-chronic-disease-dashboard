@@ -1,7 +1,17 @@
 # CDC Chronic Disease Indicators Dashboard
 
-This repository contains the data analysis and Tableau visualization for chronic disease indicators across U.S. states.
+📝 Summary Report
+This project explores U.S. state-level data on chronic health conditions with a focus on:
 
+Obesity, Diabetes, and Physical Inactivity
+
+Geographic patterns using choropleth maps
+
+Time series trends of obesity rates across years
+
+Clustering analysis to group states by health risk
+
+Regression to explore the correlation between indicators
 ## 📊 Dashboard
 
 🔗 [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/ann.mariya7782/viz/CDCChronicDiseaseIndicators/CDCChronicDiseaseIndicators)
