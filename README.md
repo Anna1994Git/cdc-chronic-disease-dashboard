@@ -20,7 +20,9 @@ Regression to explore the correlation between indicators
 
 - `data/`: Source dataset from the CDC
 - `images/`: Screenshots from the Tableau dashboard and Python
+- Scripts/`: Python Scripts
 - `README.md`: Project overview and insights
+  
 
 ## 🔍 Analysis Highlights
 
